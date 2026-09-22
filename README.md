@@ -1,4 +1,5 @@
 # Projeto CI/CD Base
+Habbiner S Andrade
 
 Um projeto base para aprender **Integração Contínua (CI)** e **Entrega Contínua (CD)** utilizando Git, GitHub, GitHub Actions e Vercel.
 
